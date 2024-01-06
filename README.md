@@ -21,7 +21,7 @@
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
 </div>
-
+<br>
 <h2 align="center">Framerworks and Libraries</h2>
 
 <div align="center">
@@ -45,7 +45,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
 </div>
-
+<br>
 <h2 align="center">Tools</h2>
 
 <div align="center">
@@ -57,16 +57,16 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Google Chrome-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" height="30" alt="chrome logo"  />
 </div>
-
+<br>
 <div>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevKrishnasai&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true"  width="50%" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=DevKrishnasai&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10&order=3"  width="45%" alt="streak graph"  />
 </div>
-
+<br>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=DevKrishnasai&theme=dracula&column=4&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
+<br>
 <div align="center">
   <a href="https://www.instagram.com/krishna_sai_ambati" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="40" alt="instagram logo"  />
