@@ -1,19 +1,8 @@
-<img src="https://media4.giphy.com/media/xT39Dfh52mXvar4FMI/giphy.gif?cid=ecf05e472lbsbequwn42g1oam7ztzn8djd8c8wzkh4p1x0k2&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Animated footer bars" width="100%" height="20" />
-
+<img src="https://media4.giphy.com/media/xT39Dfh52mXvar4FMI/giphy.gif?cid=ecf05e472lbsbequwn42g1oam7ztzn8djd8c8wzkh4p1x0k2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="100%" height="10" />
 <h3 align="center">Hi 👋! My name is Krishna Sai and I'm a MERN Stack Developer from India.</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevKrishnasai&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevKrishnasai&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true" height="174" alt="languages graph"  />
-</div>
-
-###
+<img src="https://media4.giphy.com/media/xT39Dfh52mXvar4FMI/giphy.gif?cid=ecf05e472lbsbequwn42g1oam7ztzn8djd8c8wzkh4p1x0k2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="100%" height="10" />
 
 <h2 align="center">Languages</h2>
-
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
@@ -33,11 +22,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70" alt="java logo"  />
 </div>
 
-###
-
 <h2 align="center">Framerworks and Libraries</h2>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="39" alt="react logo"  />
@@ -51,8 +36,6 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="39" alt="flutter logo"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -63,11 +46,7 @@
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="40" alt="sass logo"  />
 </div>
 
-###
-
 <h2 align="center">Tools</h2>
-
-###
 
 <div align="center">
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="30" alt="vscode logo"  />
@@ -79,20 +58,14 @@
   <img src="https://img.shields.io/badge/Google Chrome-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" height="30" alt="chrome logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevKrishnasai&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+<div>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevKrishnasai&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true"  width="50%" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=DevKrishnasai&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10&order=3"  width="45%" alt="streak graph"  />
 </div>
 
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DevKrishnasai&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=DevKrishnasai&theme=dracula&column=4&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
 
 <div align="center">
   <a href="https://www.instagram.com/krishna_sai_ambati" target="_blank">
