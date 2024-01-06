@@ -80,6 +80,19 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevKrishnasai&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DevKrishnasai&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=10&order=3" height="250" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=DevKrishnasai&theme=dracula&column=4&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
   <a href="https://www.instagram.com/krishna_sai_ambati" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="40" alt="instagram logo"  />
   </a>
@@ -90,16 +103,4 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="40" alt="linkedin logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DevKrishnasai/DevKrishnasai/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevKrishnasai&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+### 
