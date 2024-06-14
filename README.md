@@ -1,5 +1,5 @@
 <img src="https://media4.giphy.com/media/xT39Dfh52mXvar4FMI/giphy.gif?cid=ecf05e472lbsbequwn42g1oam7ztzn8djd8c8wzkh4p1x0k2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="100%" height="10" />
-<h3 align="center">Hi 👋! My name is Krishna Sai and I'm a MERN Stack Developer from India.</h3>
+<h3 align="center">Hi 👋! My name is Krishna Sai and I'm Full Stack Web and App Developer from India.</h3>
 <img src="https://media4.giphy.com/media/xT39Dfh52mXvar4FMI/giphy.gif?cid=ecf05e472lbsbequwn42g1oam7ztzn8djd8c8wzkh4p1x0k2&ep=v1_gifs_search&rid=giphy.gif&ct=g"  width="100%" height="10" />
 
 <h2 align="center">Languages</h2>
